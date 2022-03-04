@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sofgiman
+- 👋 Hi, I’m Idan Yafe
 - 👀 I’m interested in algorithmes, CS and Math
 - 🌱 I’m currently learning Unity
 
